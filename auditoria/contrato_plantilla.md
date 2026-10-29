@@ -1,0 +1,8 @@
+# Contrato de plantilla IEEE A4
+Referencia: D:\Proyectos Grandes Curos 2026-2\Examen de Inteligencia Artificial\preparacion_entrega_IA\Plantilla_IEEE_A4_Original.docx
+SHA256: c5fb8d13b0dd5c45dd29d36c81464570f2170140ec6ba620295303cf75fe1c98
+3 páginas renderizadas con Word nativo (LibreOffice no disponible).
+La referencia usa A4 11906 x 16838 twips. El cuerpo principal usa dos columnas, separación 360 twips, margen superior 1080, inferior 1440, laterales aproximadamente 893 twips. Se conserva la geometría del cuerpo, tipografía y estilos nativos. El título tiene el estilo paper title de 24 puntos. El texto de cuerpo usa Body Text heredado de Normal (Times New Roman 10 puntos). Abstract 9, captions y referencias 8 puntos.
+Se eliminan los seis bloques de autores, las secciones de tres columnas que los organizan y el bloque Invited Paper por petición expresa de omitir autoría. Se conservan los componentes académicos de título, resumen, cuerpo de dos columnas, captions y referencias. Se sustituyen todos los ejemplos e instrucciones. Se eliminan el ejemplo de patrocinio, figuras y tablas de ejemplo.
+Partes preservadas: styles.xml, numbering.xml, theme, fontTable, geometría A4 y propiedades de párrafo de los estilos relevantes. Contenido editable: document.xml, relaciones de imágenes, estilos por instancia solo si necesarios para legibilidad, metadatos de autor vacíos.
+Se usan imágenes analíticas nuevas, derivadas de las evidencias originales. Los márgenes y tipografías no se reducen para forzar paginación. El documento final se exporta con Word y se inspeccionan todas las páginas como PNG.

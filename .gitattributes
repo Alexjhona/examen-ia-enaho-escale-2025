@@ -1,0 +1,7 @@
+# Preservar bytes del manifiesto también en clones de Windows.
+* -text
+*.pdf binary
+*.docx binary
+*.png binary
+*.joblib binary
+*.zip binary

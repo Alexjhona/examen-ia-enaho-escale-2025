@@ -1,0 +1,526 @@
+{
+  ".gitattributes": {
+    "bytes": 148,
+    "sha256": "35f34aa5353be8227cbd75437154b799891fa41d07e5e712a5194e17339cd5bf"
+  },
+  ".gitignore": {
+    "bytes": 137,
+    "sha256": "7f84d6ca0ac8c9a3a040d5c82557745ce0ed0966f1dd98935330c0ed78fd137d"
+  },
+  "Articulo_Cientifico_IA.docx": {
+    "bytes": 1311068,
+    "sha256": "3145756c44908055dcdbd1a24428b75e1bc2743fd9bf8b6a8ab90e7875955869"
+  },
+  "Articulo_Cientifico_IA.pdf": {
+    "bytes": 739325,
+    "sha256": "1a8072342d07e647299fb8459f377f3825f3c2cb1b800b66bdbdaa068c3fbeb9"
+  },
+  "auditoria/Auditoria_Final_Reproducibilidad.md": {
+    "bytes": 20933,
+    "sha256": "d73d40466c82a8694ce27d476931cc8a0c5db939607b7a37724b1c09c2c54536"
+  },
+  "auditoria/coincidencia_resultados.json": {
+    "bytes": 127,
+    "sha256": "051f457e5e4a466de09988556bb31555fe0d42a18d5144672a329f2fdb28b277"
+  },
+  "auditoria/conservacion_originales.json": {
+    "bytes": 236,
+    "sha256": "1d12b0e0fdbacc4e8685d4fd95a622391b2c017fadde7ddcede018dbd577a28e"
+  },
+  "auditoria/contrato_plantilla.md": {
+    "bytes": 1637,
+    "sha256": "542247ba3507757382b96f97b8425eca15b3b2b28415417b96c5c94447dd88d6"
+  },
+  "auditoria/ejecucion_kernel_limpio.json": {
+    "bytes": 5624,
+    "sha256": "f1e9255bbf2444827ba4617ca70564028f57d0a48c2e5cccc1595a834773265f"
+  },
+  "auditoria/ejecucion_portabilidad.json": {
+    "bytes": 3757,
+    "sha256": "6d35a0520aed2bf108a40dfc83f9a4ed94beda617e0b5e6ed1d9debf253c1813"
+  },
+  "auditoria/Informe_Final_Entrega.md": {
+    "bytes": 7791,
+    "sha256": "99de1834a4c5bef63d6a2099848eeda1aee85c0ab000b1c4c202dcaba6867050"
+  },
+  "auditoria/prueba_portabilidad_zip.json": {
+    "bytes": 745,
+    "sha256": "3bb26cb3c447795222caffd8fb4f8bbb0a7bee7fc6c5cc3aeb91c24c82a250a0"
+  },
+  "auditoria/Revision_Limpieza_Examen.md": {
+    "bytes": 29738,
+    "sha256": "555690aab43348edd31b601d8e82b0d1223d7a9bcfb6bea6cff4ce3188873c62"
+  },
+  "auditoria/validacion_documental.json": {
+    "bytes": 499,
+    "sha256": "e296485a654131d814fe03090f5b44f2798552a8bfad0e6b67ff9cef23ef5816"
+  },
+  "auditoria/validacion_notebook.json": {
+    "bytes": 657,
+    "sha256": "43f4533fab2f7e265b55dc2f5646ad2f7ef541a9882acfadf1264d7645399331"
+  },
+  "auditoria/validacion_zip.json": {
+    "bytes": 7281,
+    "sha256": "274a1ae6312fc57c162ec125a67bb71794c7cbaacfefa6076386849418d3f228"
+  },
+  "auditoria/versiones_entorno.json": {
+    "bytes": 337,
+    "sha256": "3dcebcb6892fa1831904836c779f5397c25d68793a78095723d0c480c86a030b"
+  },
+  "data/processed/clasificacion_actualizada_2025.csv": {
+    "bytes": 6828423,
+    "sha256": "e2edfbc71720ee1ce7706000e17118fda460add3c4754df4e237e7da702bc1fb"
+  },
+  "data/processed/dataset_enaho_escale_2025.csv": {
+    "bytes": 6828423,
+    "sha256": "e2edfbc71720ee1ce7706000e17118fda460add3c4754df4e237e7da702bc1fb"
+  },
+  "data/processed/dataset_enaho_escale_2025_area.csv": {
+    "bytes": 9240898,
+    "sha256": "75ce6621eebcdaafc2bb9298d4eedcf390249530dd51c922649422f91c3bc5c1"
+  },
+  "data/processed/dataset_integrado_preliminar_2025.csv": {
+    "bytes": 7467977,
+    "sha256": "70ee95a002e4d3602e252456ce996c916d45e60d397409b0683ab16883c9b44b"
+  },
+  "data/processed/enaho_educacion_2025.csv": {
+    "bytes": 5673997,
+    "sha256": "145856acee5993ab5745edc38cefb5e0368af192419e85dfca655737d0c30382"
+  },
+  "data/processed/enaho_personas_2025.csv": {
+    "bytes": 5535780,
+    "sha256": "e4287736fe528cb05a8b3fbaf8e7bc990532e3daec4d167a2c1118681518cb2c"
+  },
+  "data/processed/enaho_sumaria_2025.csv": {
+    "bytes": 2742220,
+    "sha256": "cfeaaf1fbabf32b132200f9bfb83cbf92c6f00f08abddbe7862796dbd9601a20"
+  },
+  "data/processed/enaho_vivienda_2025.csv": {
+    "bytes": 1838986,
+    "sha256": "b457467c36072d73cbed441542f6a4cb5c2c69bf7efa7246d116f462ad8b1e27"
+  },
+  "data/processed/maestro_actualizado_2025.csv": {
+    "bytes": 8123679,
+    "sha256": "1112c8cb564f33327e8ed4eaf74ff0d54f9dce1e1b003bc85051f81b379c407e"
+  },
+  "data/raw/00_Padlocal.zip": {
+    "bytes": 2510076,
+    "sha256": "e92f8cae6136acb45167615dc586883041ff7da1161394c0b87db1f417fe708e"
+  },
+  "data/raw/00_Padron.zip": {
+    "bytes": 11238339,
+    "sha256": "18192e82687bb3842d7ab0f69f33952e9cfbff6963fc0c8a656c4887239174b7"
+  },
+  "data/raw/factores_personas_2025.csv": {
+    "bytes": 5273788,
+    "sha256": "1f6f81ce24f51bcaadd976161578116a1141ab1028f11b42979ad1c1be9cf961"
+  },
+  "data/raw/grados_educativos_2025.csv": {
+    "bytes": 2887941,
+    "sha256": "393b198ec0866e27af78d8d44dd1deee2deb49c09f0bc30fa4323f48369d468d"
+  },
+  "Diccionario_Variables.csv": {
+    "bytes": 36880,
+    "sha256": "8f7ab190e9977615188572be3b4b5c99d213c074c56d178c4bb509903380049a"
+  },
+  "fuentes_y_referencias/1041-Ficha.pdf": {
+    "bytes": 263082,
+    "sha256": "ed9bc2710933c9a65eaa68c7560bc11caf47796b4336a5fae9de6f423ed70b04"
+  },
+  "fuentes_y_referencias/Diccionario_panel_2021_2025.pdf": {
+    "bytes": 33780700,
+    "sha256": "70b3c9694da44eeb855138ce7472da825e58721f5e8978f812697d07c47cf625"
+  },
+  "fuentes_y_referencias/Fuentes_Verificadas.json": {
+    "bytes": 1302,
+    "sha256": "970c7a852c074c5680da2320bf4b7cd4ab8f36501806a63ebaaaaaf3028f66a4"
+  },
+  "fuentes_y_referencias/guía de evaluación - proyecto ia_ brecha digital y educación 2025 (enaho - escale)_r82irt6hai (2).pdf": {
+    "bytes": 262223,
+    "sha256": "d1298ca71891f7f2418d61c3be5f5b6e1e0da40732663b40394dda14f444622c"
+  },
+  "fuentes_y_referencias/integracion-enaho-escale.drawio": {
+    "bytes": 3174,
+    "sha256": "018ce6a73cb0040e438060fa4170ce9b07cd4ecd98845ec32e2a999f2cfa28f3"
+  },
+  "fuentes_y_referencias/Plantilla_IEEE_A4_Original.docx": {
+    "bytes": 33043,
+    "sha256": "c5fb8d13b0dd5c45dd29d36c81464570f2170140ec6ba620295303cf75fe1c98"
+  },
+  "fuentes_y_referencias/procedencia_plantilla.json": {
+    "bytes": 304,
+    "sha256": "4744238317dc3192aca4421dc192723976cdab044d9e5e2b9065f5c755c24594"
+  },
+  "fuentes_y_referencias/Referencias_Articulo.txt": {
+    "bytes": 1537,
+    "sha256": "249b805da15708778b75f1fff0bbfe457cb36c2c9383e1fa1269b68ab7c71d90"
+  },
+  "notebooks/AnalisisExamen_Final.ipynb": {
+    "bytes": 2117259,
+    "sha256": "afe9bb6460787bb5b4b1c9fd5394c4a021719f9d4dc03fa1cba381f145b9cb21"
+  },
+  "README.md": {
+    "bytes": 9459,
+    "sha256": "8f7871fbd4007bdebac86864fac331d1479637bab1aa43297d7fd975d97669a1"
+  },
+  "requirements.txt": {
+    "bytes": 236,
+    "sha256": "93714515a861c426a748f0952fec94f4a0f081144e47cc6093df3fe8666a8b9e"
+  },
+  "requirements_documentos.txt": {
+    "bytes": 45,
+    "sha256": "7e537fa26202ec8944c2896e3bcd6a7ba69ce4a8190168dbb84dfec27a3f4e67"
+  },
+  "resultados/complementarios/ajuste_hiperparametros.csv": {
+    "bytes": 336,
+    "sha256": "8024741d283f4bee910d6b8737f2cd64de76ab5e315ddf25c19458a750046f96"
+  },
+  "resultados/complementarios/cobertura_escale_area.csv": {
+    "bytes": 104,
+    "sha256": "daae26bf423213e87238860bf6ef40ea6d76b403eb63079cf7acd404bf57e4ff"
+  },
+  "resultados/complementarios/control_factor_personas.csv": {
+    "bytes": 156,
+    "sha256": "b7516c1ef6684fbb8600b0827fef1b95af8f6388d01f18c6337e4cd9a39e3646"
+  },
+  "resultados/complementarios/descripcion_facpob07.csv": {
+    "bytes": 303,
+    "sha256": "d67ba1f51fc33de12cd4986823d42a82eeef7c66955c18f91bcf0e3576029977"
+  },
+  "resultados/complementarios/escale_distrito_area.csv": {
+    "bytes": 216039,
+    "sha256": "c87f238f720fc34de8dc6c1bab03e4792cd17839280dd86850a6ed6292aa32ac"
+  },
+  "resultados/figuras/06_matriz_confusion.png": {
+    "bytes": 45658,
+    "sha256": "acc315955873aafba86180b4056ffe981ca395d7cba34b774ea170d1c38e281d"
+  },
+  "resultados/figuras/07_curva_roc.png": {
+    "bytes": 94554,
+    "sha256": "6356a470151503bb8c7cf83f311ee9c6226226873870263c956ce09e1d51f410"
+  },
+  "resultados/figuras/08_curva_precision_recall.png": {
+    "bytes": 66787,
+    "sha256": "d974635508a7c31f8ca285db6d2a5e93baf70bbbaf8356d3e3c84d04abe13c90"
+  },
+  "resultados/figuras/09_curva_calibracion.png": {
+    "bytes": 92060,
+    "sha256": "4e543b416550a097e1162ea312de1d61ea2f20fe024162558586e433561f6781"
+  },
+  "resultados/figuras/10_shap_beeswarm.png": {
+    "bytes": 180062,
+    "sha256": "adc5407f829ad699d4b6cce6c66e2acfb5a18a0d42f87945b8ad9ab672e8eb7f"
+  },
+  "resultados/figuras/11_shap_dependencia.png": {
+    "bytes": 121686,
+    "sha256": "b4bc8a5643867466dd05e6c962df7f0633e3bba71cfd08b3e0bd78aa518feddd"
+  },
+  "resultados/figuras/12_shap_dependencia.png": {
+    "bytes": 129952,
+    "sha256": "2b9e1ab0b01901abed24cd5458712aeab49dd70c702e224c3b6d7583a72ac9a3"
+  },
+  "resultados/figuras/13_shap_waterfall_alto.png": {
+    "bytes": 144992,
+    "sha256": "44bb3d3650b110af47a953c74425e8106cb5a38a0e5d78cc038898e457ca0602"
+  },
+  "resultados/figuras/14_shap_waterfall_bajo.png": {
+    "bytes": 149138,
+    "sha256": "4b62d0a5a9a64872ea26e01aa392ec340123c958ad10fd2e23a174c27acc26c4"
+  },
+  "resultados/figuras/articulo/clustering.png": {
+    "bytes": 348844,
+    "sha256": "0cb7a680b9e58e377fb98256910e1332cecc057cc18ff0c178cb3111ba296131"
+  },
+  "resultados/figuras/articulo/eda_pobreza.png": {
+    "bytes": 37382,
+    "sha256": "b27a9733780808385a429ba68b652eb2e9a0d835020c16b4102b48c68ebc280a"
+  },
+  "resultados/figuras/articulo/errores_calibracion.png": {
+    "bytes": 104866,
+    "sha256": "be8284e3f0962af22c35abd48ffd0640f0f904063514cc21ff5efea333606f4e"
+  },
+  "resultados/figuras/articulo/roc_pr.png": {
+    "bytes": 108765,
+    "sha256": "049ecbba760c560e72aa126f1daea37553cd5aa689c659a41d702e2436d4ac87"
+  },
+  "resultados/figuras/articulo/shap_dependencias.png": {
+    "bytes": 247177,
+    "sha256": "7f9fb941e9affdd20dfade936e1971ca33377dc4a5572c4252be506ea7aed3e0"
+  },
+  "resultados/figuras/articulo/shap_global.png": {
+    "bytes": 133353,
+    "sha256": "94002678eb3624bb0458e62e637a254790fa31297c660823a9f3b05b094e5d6c"
+  },
+  "resultados/figuras/articulo/waterfall_negativo.png": {
+    "bytes": 70998,
+    "sha256": "9ba9cec755c52a369f102aba24b372a4f3baf07c19c60950b53e818e0b8a6285"
+  },
+  "resultados/figuras/articulo/waterfall_positivo.png": {
+    "bytes": 69529,
+    "sha256": "993e4080ce8d6d46becf23be90c27260015e59c7389350abd5f0cdea505aecd9"
+  },
+  "resultados/figuras/clustering_kmeans_pca.png": {
+    "bytes": 811568,
+    "sha256": "7d1d386f9572bac81af0cf757fdba4d3e5df739e1828e0b266fbfe7cb54afeaf"
+  },
+  "resultados/figuras/clustering_kmeans_silueta.png": {
+    "bytes": 77843,
+    "sha256": "c4718c372edd4cfa2ed7b2ab120a93a0f7ede54a5949a96b81160b18b3b10946"
+  },
+  "resultados/figuras/eda/eda_01_clases.png": {
+    "bytes": 38960,
+    "sha256": "5a556b2cf3aba08aa9ca94dc7e660aa23a72e51f98f62b4d75922f8ec10e3abd"
+  },
+  "resultados/figuras/eda/eda_02_economia.png": {
+    "bytes": 50039,
+    "sha256": "a4a1efaec4d9f88ee5fdaf27205b1bd6a840ccf5451bca964ccc13c0da6c475a"
+  },
+  "resultados/figuras/eda/eda_03_ingreso_rezago.png": {
+    "bytes": 53287,
+    "sha256": "88c9a27f321768ffb4ebbe25b39eee2bd5deafc3cea323c8f25fa52dae98df79"
+  },
+  "resultados/figuras/eda/eda_04_pobreza_rezago.png": {
+    "bytes": 39150,
+    "sha256": "ef602c8358dd39c98b1e77709591b897bfee603378968cf897cca3c6d22a9247"
+  },
+  "resultados/figuras/eda/eda_05_correlacion.png": {
+    "bytes": 149409,
+    "sha256": "50eaec8d27e8808c7795d6f2fbd340fcfd1360d9c3b66451e72aac378792d5f5"
+  },
+  "resultados/figuras/eda/eda_06_ingresos_gastos.png": {
+    "bytes": 376661,
+    "sha256": "770aa708fac5ef80540ed7b14ae8e376a3fda7f6d488bdc6f31b892aa65209c0"
+  },
+  "resultados/figuras/integracion-enaho-escale.drawio.png": {
+    "bytes": 225439,
+    "sha256": "9f749223538bbcb26f95c19511e3c65da42e6047c72b809d59ed14d41e8a361c"
+  },
+  "resultados/matriz_confusion_final.csv": {
+    "bytes": 94,
+    "sha256": "fd1e773e4f1e5c0052fead7d83e86e972d0f0fb1a64c3368831d0863eb5d7b78"
+  },
+  "resultados/metricas_finales.csv": {
+    "bytes": 312,
+    "sha256": "f04aa56284de90895f9482d0659184d6399d9413326524e80ad23247059ac590"
+  },
+  "resultados/modelos/xgboost_balanceado_final.joblib": {
+    "bytes": 240961,
+    "sha256": "efd38a1d3c3a520a69c22149bf3676ec0f5ea6ce7ef6ebb786f0e31d79795d1c"
+  },
+  "resultados/perfiles_clusters.csv": {
+    "bytes": 244,
+    "sha256": "b23d7caadfa2ce000e73faf9bf43b8d305bdd8bb79c7316ca21d339f6a5cd095"
+  },
+  "resultados/reproducido/figuras/06_matriz_confusion.png": {
+    "bytes": 45658,
+    "sha256": "acc315955873aafba86180b4056ffe981ca395d7cba34b774ea170d1c38e281d"
+  },
+  "resultados/reproducido/figuras/07_curva_roc.png": {
+    "bytes": 94554,
+    "sha256": "6356a470151503bb8c7cf83f311ee9c6226226873870263c956ce09e1d51f410"
+  },
+  "resultados/reproducido/figuras/08_curva_precision_recall.png": {
+    "bytes": 66787,
+    "sha256": "d974635508a7c31f8ca285db6d2a5e93baf70bbbaf8356d3e3c84d04abe13c90"
+  },
+  "resultados/reproducido/figuras/09_curva_calibracion.png": {
+    "bytes": 92060,
+    "sha256": "4e543b416550a097e1162ea312de1d61ea2f20fe024162558586e433561f6781"
+  },
+  "resultados/reproducido/figuras/10_shap_beeswarm.png": {
+    "bytes": 181354,
+    "sha256": "ba29ad74e677e6988649fd428db30458079e97f2e22d951a47ea3b513fadc2b4"
+  },
+  "resultados/reproducido/figuras/10_shap_beeswarm_diez_caracteristicas.png": {
+    "bytes": 200224,
+    "sha256": "6cdca2b051efc47ffee4e842d70c3bfb67b1a123b804204e4907c7890b9806bb"
+  },
+  "resultados/reproducido/figuras/11_shap_dependencia.png": {
+    "bytes": 121903,
+    "sha256": "e04c8d3262d2ac313921581e8be791a44409723250f008e209b4a09fdad93af8"
+  },
+  "resultados/reproducido/figuras/12_shap_dependencia.png": {
+    "bytes": 130235,
+    "sha256": "f4a7256b4212f2640876825ef0e768b2e9d5aad19354433696f555fd9aa8186b"
+  },
+  "resultados/reproducido/figuras/13_shap_waterfall_alto.png": {
+    "bytes": 144992,
+    "sha256": "44bb3d3650b110af47a953c74425e8106cb5a38a0e5d78cc038898e457ca0602"
+  },
+  "resultados/reproducido/figuras/14_shap_waterfall_bajo.png": {
+    "bytes": 149138,
+    "sha256": "4b62d0a5a9a64872ea26e01aa392ec340123c958ad10fd2e23a174c27acc26c4"
+  },
+  "resultados/reproducido/figuras/clustering_kmeans_pca.png": {
+    "bytes": 811568,
+    "sha256": "7d1d386f9572bac81af0cf757fdba4d3e5df739e1828e0b266fbfe7cb54afeaf"
+  },
+  "resultados/reproducido/figuras/clustering_kmeans_silueta.png": {
+    "bytes": 77843,
+    "sha256": "c4718c372edd4cfa2ed7b2ab120a93a0f7ede54a5949a96b81160b18b3b10946"
+  },
+  "resultados/reproducido/figuras/eda/eda_01_clases.png": {
+    "bytes": 38960,
+    "sha256": "5a556b2cf3aba08aa9ca94dc7e660aa23a72e51f98f62b4d75922f8ec10e3abd"
+  },
+  "resultados/reproducido/figuras/eda/eda_02_economia.png": {
+    "bytes": 50039,
+    "sha256": "a4a1efaec4d9f88ee5fdaf27205b1bd6a840ccf5451bca964ccc13c0da6c475a"
+  },
+  "resultados/reproducido/figuras/eda/eda_03_ingreso_rezago.png": {
+    "bytes": 53287,
+    "sha256": "88c9a27f321768ffb4ebbe25b39eee2bd5deafc3cea323c8f25fa52dae98df79"
+  },
+  "resultados/reproducido/figuras/eda/eda_04_pobreza_rezago.png": {
+    "bytes": 39150,
+    "sha256": "ef602c8358dd39c98b1e77709591b897bfee603378968cf897cca3c6d22a9247"
+  },
+  "resultados/reproducido/figuras/eda/eda_05_correlacion.png": {
+    "bytes": 149409,
+    "sha256": "50eaec8d27e8808c7795d6f2fbd340fcfd1360d9c3b66451e72aac378792d5f5"
+  },
+  "resultados/reproducido/figuras/eda/eda_06_ingresos_gastos.png": {
+    "bytes": 376661,
+    "sha256": "770aa708fac5ef80540ed7b14ae8e376a3fda7f6d488bdc6f31b892aa65209c0"
+  },
+  "resultados/reproducido/matriz_confusion_final.csv": {
+    "bytes": 94,
+    "sha256": "fd1e773e4f1e5c0052fead7d83e86e972d0f0fb1a64c3368831d0863eb5d7b78"
+  },
+  "resultados/reproducido/metricas_finales.csv": {
+    "bytes": 312,
+    "sha256": "f04aa56284de90895f9482d0659184d6399d9413326524e80ad23247059ac590"
+  },
+  "resultados/reproducido/modelos/xgboost_balanceado_final.joblib": {
+    "bytes": 240961,
+    "sha256": "efd38a1d3c3a520a69c22149bf3676ec0f5ea6ce7ef6ebb786f0e31d79795d1c"
+  },
+  "resultados/reproducido/perfiles_clusters.csv": {
+    "bytes": 244,
+    "sha256": "b23d7caadfa2ce000e73faf9bf43b8d305bdd8bb79c7316ca21d339f6a5cd095"
+  },
+  "resultados/reproducido/tablas/01_comparacion_clasificacion.csv": {
+    "bytes": 643,
+    "sha256": "6a36d82960e183d17320ab85b2192d80aeef0f7c74c13fdd4f405feb36215953"
+  },
+  "resultados/reproducido/tablas/02_comparacion_clustering.csv": {
+    "bytes": 490,
+    "sha256": "184b6fed19b4774195d2a25327385bb3794bbeaa2456cf50a066a731939d1be6"
+  },
+  "resultados/reproducido/tablas/03_perfiles_clustering.csv": {
+    "bytes": 244,
+    "sha256": "b23d7caadfa2ce000e73faf9bf43b8d305bdd8bb79c7316ca21d339f6a5cd095"
+  },
+  "resultados/reproducido/tablas/04_metricas_prueba.csv": {
+    "bytes": 312,
+    "sha256": "f04aa56284de90895f9482d0659184d6399d9413326524e80ad23247059ac590"
+  },
+  "resultados/reproducido/tablas/05_matriz_confusion.csv": {
+    "bytes": 99,
+    "sha256": "52a6efc23ea68d73e06978b2b8be2dcee2f5345775d16a6093bef17ccc4860cf"
+  },
+  "resultados/reproducido/tablas/06_metadatos_experimento.json": {
+    "bytes": 786,
+    "sha256": "202921e303da61780698e6af98c121422f0870d2e0ac17b283da9282665971e9"
+  },
+  "resultados/reproducido/tablas/eda_balance_clases.csv": {
+    "bytes": 57,
+    "sha256": "4999cc876326f85da6d840494e536dbfbea657365920222b810a53004af25664"
+  },
+  "resultados/reproducido/tablas/eda_correlacion.csv": {
+    "bytes": 738,
+    "sha256": "111a9ecac0340e9a7be29ada2b58c826ad9cf3c803cea9d5f6468960c5659785"
+  },
+  "resultados/reproducido/tablas/eda_dominio_rezago.csv": {
+    "bytes": 176,
+    "sha256": "2242aef6d7f96a0dfb2bc9dededef8f849c366d7638429293c975e6b6529c9e6"
+  },
+  "resultados/reproducido/tablas/eda_estadisticas.csv": {
+    "bytes": 484,
+    "sha256": "a7e755881e5420c09b6c85c1754e1198a6cd7137305db11543535cd73157ad9f"
+  },
+  "resultados/reproducido/tablas/eda_pobreza_rezago.csv": {
+    "bytes": 95,
+    "sha256": "8c1f7c3e041597ea28a247b0f9c1fa5c4b8e2fd74548ccbdb85157f5a90d2889"
+  },
+  "resultados/tablas/01_comparacion_clasificacion.csv": {
+    "bytes": 643,
+    "sha256": "6a36d82960e183d17320ab85b2192d80aeef0f7c74c13fdd4f405feb36215953"
+  },
+  "resultados/tablas/02_comparacion_clustering.csv": {
+    "bytes": 490,
+    "sha256": "184b6fed19b4774195d2a25327385bb3794bbeaa2456cf50a066a731939d1be6"
+  },
+  "resultados/tablas/03_perfiles_clustering.csv": {
+    "bytes": 244,
+    "sha256": "b23d7caadfa2ce000e73faf9bf43b8d305bdd8bb79c7316ca21d339f6a5cd095"
+  },
+  "resultados/tablas/04_metricas_prueba.csv": {
+    "bytes": 312,
+    "sha256": "f04aa56284de90895f9482d0659184d6399d9413326524e80ad23247059ac590"
+  },
+  "resultados/tablas/05_matriz_confusion.csv": {
+    "bytes": 99,
+    "sha256": "52a6efc23ea68d73e06978b2b8be2dcee2f5345775d16a6093bef17ccc4860cf"
+  },
+  "resultados/tablas/06_metadatos_experimento.json": {
+    "bytes": 786,
+    "sha256": "202921e303da61780698e6af98c121422f0870d2e0ac17b283da9282665971e9"
+  },
+  "resultados/tablas/eda_balance_clases.csv": {
+    "bytes": 57,
+    "sha256": "4999cc876326f85da6d840494e536dbfbea657365920222b810a53004af25664"
+  },
+  "resultados/tablas/eda_correlacion.csv": {
+    "bytes": 738,
+    "sha256": "111a9ecac0340e9a7be29ada2b58c826ad9cf3c803cea9d5f6468960c5659785"
+  },
+  "resultados/tablas/eda_dominio_rezago.csv": {
+    "bytes": 176,
+    "sha256": "2242aef6d7f96a0dfb2bc9dededef8f849c366d7638429293c975e6b6529c9e6"
+  },
+  "resultados/tablas/eda_estadisticas.csv": {
+    "bytes": 484,
+    "sha256": "a7e755881e5420c09b6c85c1754e1198a6cd7137305db11543535cd73157ad9f"
+  },
+  "resultados/tablas/eda_pobreza_rezago.csv": {
+    "bytes": 95,
+    "sha256": "8c1f7c3e041597ea28a247b0f9c1fa5c4b8e2fd74548ccbdb85157f5a90d2889"
+  },
+  "src/ajuste_complementario.py": {
+    "bytes": 3095,
+    "sha256": "30db0a5ddb3fd5dd15f24c78dd5d73bee685218f30526ce48ae9f104a0e0311a"
+  },
+  "src/crear_articulo.py": {
+    "bytes": 29737,
+    "sha256": "078997d9a44fd97c684ba7d7f3862b66058b62d2b2a9b44fddfdb8464dd46d2a"
+  },
+  "src/ejecutar_notebook.py": {
+    "bytes": 2589,
+    "sha256": "1cec869029d59617282ad9024eca660056ec068faf557a642adaa5973839cfa6"
+  },
+  "src/exportar_complementos.py": {
+    "bytes": 2375,
+    "sha256": "a4fd5f8aa140ce8170ab231d32d268ddf5d557e4192c88c445219961fa78522d"
+  },
+  "src/exportar_pdf_word.ps1": {
+    "bytes": 626,
+    "sha256": "753a3e2018ffe0bb9222e774dbf10f415a249ec1bf3cfc8599ad9cdb8279c5cd"
+  },
+  "src/extraer_corte_panel.py": {
+    "bytes": 2176,
+    "sha256": "ab22360ab76a71a318762adb028996369cbc216077290bd6758157c7f24e799d"
+  },
+  "src/figura_clustering.py": {
+    "bytes": 2604,
+    "sha256": "192a941619fc1d4d5db87730f3bca77e95565ee37d9744398416e4825f534e93"
+  },
+  "src/figuras_articulo.py": {
+    "bytes": 6651,
+    "sha256": "96afeffa66f766c3179357030e724c89ebe118c2c9e49594564165e90851d3eb"
+  },
+  "src/verificar_integridad.py": {
+    "bytes": 776,
+    "sha256": "4b545233046b137e1669961784157d1c1f4d7ae9382d7bab14b5fe69b2fe851a"
+  }
+}

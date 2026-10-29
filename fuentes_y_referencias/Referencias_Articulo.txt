@@ -1,0 +1,17 @@
+[1] INEI, “ENAHO. Ficha técnica 2025 y diccionario de datos panel 2021–2025”, módulos 100, 200, 300 y Sumaria, 2025. Documentación de las fuentes empleadas.
+
+[2] MINEDU, “ESCALE. Padrón de servicios educativos y locales escolares 2025”, archivos 00_Padron y 00_Padlocal, 2025. Disponible: https://escale.minedu.gob.pe/
+
+[3] MINEDU, “Porcentaje de alumnos con atraso escolar”, ficha metodológica de indicadores ESCALE. Disponible: escale.minedu.gob.pe/tendencias-2016-portlet/servlet/tendencias/archivo?idCuadro=14&tipo=meta
+
+[4] Scikit-learn developers, “GroupKFold”, documentación oficial. Disponible: https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GroupKFold.html (consulta: oct. 2026).
+
+[5] L. Breiman, “Random forests”, Machine Learning, vol. 45, pp. 5–32, 2001, doi: 10.1023/A:1010933404324.
+
+[6] T. Chen y C. Guestrin, “XGBoost: A scalable tree boosting system”, Proc. ACM SIGKDD, pp. 785–794, 2016, doi: 10.1145/2939672.2939785.
+
+[7] G. Ke et al., “LightGBM: A highly efficient gradient boosting decision tree”, Advances in Neural Information Processing Systems, vol. 30, 2017.
+
+[8] INEI, “Metodología de cálculo de los factores de expansión”, documentación metodológica ENAHO. Disponible: https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1244/Libro.pdf
+
+[9] S. M. Lundberg y S.-I. Lee, “A unified approach to interpreting model predictions”, Advances in Neural Information Processing Systems, vol. 30, 2017.

@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "ejecucion_en_carpeta_extraida_del_zip": true,
+  "sin_dbf_intermedios_al_inicio": true,
+  "dbf_regenerados_desde_zip": true,
+  "kernel_nuevo": true,
+  "celdas": 118,
+  "elapsed_seconds": 98.1,
+  "tablas_con_coincidencia_exacta": [
+    "01_comparacion_clasificacion.csv",
+    "02_comparacion_clustering.csv",
+    "03_perfiles_clustering.csv",
+    "04_metricas_prueba.csv",
+    "05_matriz_confusion.csv"
+  ],
+  "diferencia_numerica_maxima_persistida": 0,
+  "integridad_antes_de_ejecutar": "127 archivos del manifiesto verificados; sin diferencias",
+  "alcance": "Extracción independiente, ruta diferente, mismos extractos y versiones. No requiere los CSV panel completos ni estado del notebook abierto."
+}

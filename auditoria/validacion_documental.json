@@ -1,0 +1,22 @@
+{
+  "pdf_pages": 6,
+  "docx_figures": 9,
+  "docx_tables": 8,
+  "source_template_parts_canonical_xml_equal": {
+    "word/styles.xml": true,
+    "word/numbering.xml": true,
+    "word/theme/theme1.xml": true,
+    "word/fontTable.xml": true
+  },
+  "author_fields_empty": true,
+  "render_engine": "Microsoft Word; rasterización Poppler",
+  "packaged_renderer_limitation": "LibreOffice soffice.exe ausente",
+  "visual_pages_reviewed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ]
+}

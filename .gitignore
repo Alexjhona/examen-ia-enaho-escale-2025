@@ -1,0 +1,7 @@
+# Cachés que el notebook vuelve a generar desde los ZIP incluidos.
+data/interim/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.pyc
+~$*.docx

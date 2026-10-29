@@ -1,0 +1,7 @@
+{
+  "originales_revisados": 120,
+  "sha256_comprobados": 51,
+  "cambios": [],
+  "intactos": true,
+  "alcance": "Tamaño y fecha de todos; SHA-256 de archivos con hash previo. Fuentes gigantes y ZIP originales no se rehashearon."
+}

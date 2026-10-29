@@ -1,0 +1,15 @@
+{
+  "fecha_consulta": "2026-10-28",
+  "fuente_datos_compartida": "https://drive.google.com/drive/folders/1bS33AqWrI2Cytfa29ryVI5gRcgDOJtXs",
+  "origen_enaho": "CSV panel 2021-2025 proporcionados; selección columnas _25 sin alterar fuentes",
+  "metodologia_factor": "https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1244/Libro.pdf",
+  "rezago_escale": "https://escale.minedu.gob.pe/tendencias-2016-portlet/servlet/tendencias/archivo?idCuadro=14&tipo=meta",
+  "groupkfold": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GroupKFold.html",
+  "random_forest": "https://www.stat.berkeley.edu/users/breiman/randomforest2001.pdf",
+  "xgboost": "https://arxiv.org/abs/1603.02754",
+  "lightgbm": "https://proceedings.neurips.cc/paper_files/paper/2017/hash/6449f44a102fde848669bdd9eb6b76fa-Abstract.html",
+  "shap": "https://proceedings.neurips.cc/paper_files/paper/2017/hash/8a20a8621978632d76c43dfd28b67767-Abstract.html",
+  "ieee_author_center": "https://conferences.ieeeauthorcenter.ieee.org/write-your-paper/authoring-tools-and-templates/",
+  "ieee_conferencia_plantilla": "https://uadltf.ieee.org.ua/templates-instructions/",
+  "plantilla_descargada": "https://uadltf.ieee.org.ua/wp-content/uploads/2023/07/conference-template-a4.docx"
+}

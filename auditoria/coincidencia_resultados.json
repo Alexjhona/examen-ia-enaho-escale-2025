@@ -1,0 +1,5 @@
+{
+  "estado": "Coinciden las cinco tablas de referencia",
+  "tolerancia_absoluta": 5e-05,
+  "reproduccion_completa": true
+}

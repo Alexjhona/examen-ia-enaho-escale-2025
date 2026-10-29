@@ -1,0 +1,253 @@
+{
+  "success": true,
+  "python": "3.14.2 (tags/v3.14.2:df79316, Dec  5 2025, 17:18:21) [MSC v.1944 64 bit (AMD64)]",
+  "cells": 118,
+  "started": "2026-10-28T21:41:37",
+  "elapsed_seconds": 98.1,
+  "eventos": [
+    {
+      "celda": 1,
+      "ejecucion": 1
+    },
+    {
+      "celda": 6,
+      "ejecucion": 2
+    },
+    {
+      "celda": 9,
+      "ejecucion": 3
+    },
+    {
+      "celda": 11,
+      "ejecucion": 4
+    },
+    {
+      "celda": 13,
+      "ejecucion": 5
+    },
+    {
+      "celda": 15,
+      "ejecucion": 6
+    },
+    {
+      "celda": 16,
+      "ejecucion": 7
+    },
+    {
+      "celda": 17,
+      "ejecucion": 8
+    },
+    {
+      "celda": 19,
+      "ejecucion": 9
+    },
+    {
+      "celda": 20,
+      "ejecucion": 10
+    },
+    {
+      "celda": 21,
+      "ejecucion": 11
+    },
+    {
+      "celda": 23,
+      "ejecucion": 12
+    },
+    {
+      "celda": 25,
+      "ejecucion": 13
+    },
+    {
+      "celda": 27,
+      "ejecucion": 14
+    },
+    {
+      "celda": 29,
+      "ejecucion": 15
+    },
+    {
+      "celda": 30,
+      "ejecucion": 16
+    },
+    {
+      "celda": 32,
+      "ejecucion": 17
+    },
+    {
+      "celda": 34,
+      "ejecucion": 18
+    },
+    {
+      "celda": 36,
+      "ejecucion": 19
+    },
+    {
+      "celda": 37,
+      "ejecucion": 20
+    },
+    {
+      "celda": 39,
+      "ejecucion": 21
+    },
+    {
+      "celda": 40,
+      "ejecucion": 22
+    },
+    {
+      "celda": 42,
+      "ejecucion": 23
+    },
+    {
+      "celda": 44,
+      "ejecucion": 24
+    },
+    {
+      "celda": 46,
+      "ejecucion": 25
+    },
+    {
+      "celda": 48,
+      "ejecucion": 26
+    },
+    {
+      "celda": 50,
+      "ejecucion": 27
+    },
+    {
+      "celda": 52,
+      "ejecucion": 28
+    },
+    {
+      "celda": 54,
+      "ejecucion": 29
+    },
+    {
+      "celda": 56,
+      "ejecucion": 30
+    },
+    {
+      "celda": 58,
+      "ejecucion": 31
+    },
+    {
+      "celda": 60,
+      "ejecucion": 32
+    },
+    {
+      "celda": 62,
+      "ejecucion": 33
+    },
+    {
+      "celda": 64,
+      "ejecucion": 34
+    },
+    {
+      "celda": 67,
+      "ejecucion": 35
+    },
+    {
+      "celda": 69,
+      "ejecucion": 36
+    },
+    {
+      "celda": 71,
+      "ejecucion": 37
+    },
+    {
+      "celda": 73,
+      "ejecucion": 38
+    },
+    {
+      "celda": 75,
+      "ejecucion": 39
+    },
+    {
+      "celda": 76,
+      "ejecucion": 40
+    },
+    {
+      "celda": 78,
+      "ejecucion": 41
+    },
+    {
+      "celda": 79,
+      "ejecucion": 42
+    },
+    {
+      "celda": 81,
+      "ejecucion": 43
+    },
+    {
+      "celda": 83,
+      "ejecucion": 44
+    },
+    {
+      "celda": 84,
+      "ejecucion": 45
+    },
+    {
+      "celda": 86,
+      "ejecucion": 46
+    },
+    {
+      "celda": 88,
+      "ejecucion": 47
+    },
+    {
+      "celda": 90,
+      "ejecucion": 48
+    },
+    {
+      "celda": 92,
+      "ejecucion": 49
+    },
+    {
+      "celda": 94,
+      "ejecucion": 50
+    },
+    {
+      "celda": 95,
+      "ejecucion": 51
+    },
+    {
+      "celda": 98,
+      "ejecucion": 52
+    },
+    {
+      "celda": 99,
+      "ejecucion": 53
+    },
+    {
+      "celda": 101,
+      "ejecucion": 54
+    },
+    {
+      "celda": 103,
+      "ejecucion": 55
+    },
+    {
+      "celda": 105,
+      "ejecucion": 56
+    },
+    {
+      "celda": 107,
+      "ejecucion": 57
+    },
+    {
+      "celda": 109,
+      "ejecucion": 58
+    },
+    {
+      "celda": 111,
+      "ejecucion": 59
+    },
+    {
+      "celda": 113,
+      "ejecucion": 60
+    },
+    {
+      "celda": 116,
+      "ejecucion": 61
+    }
+  ]
+}

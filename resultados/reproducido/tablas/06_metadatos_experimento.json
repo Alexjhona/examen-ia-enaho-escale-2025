@@ -1,0 +1,26 @@
+{
+    "algoritmo_final": "XGBoost Balanceado",
+    "criterio_seleccion": "F1 de rezago en GroupKFold",
+    "semilla": 42,
+    "folds": 3,
+    "entrenamiento": 15610,
+    "prueba": 3880,
+    "variables_originales": [
+        "P207_25",
+        "P300A_25",
+        "P1121_25",
+        "P1144_25",
+        "POBREZA_25",
+        "DOMINIO_25",
+        "INGHOG2D_25",
+        "GASHOG2D_25",
+        "ratio_docente_ps",
+        "proporcion_publicos",
+        "locales_escolares"
+    ],
+    "umbral_prediccion": 0.5,
+    "factor_expansion": "Conservado, no utilizado para ponderar",
+    "fuente_enaho": "Corte 2025 de archivos panel 2021-2025",
+    "escale": "Indicadores contextuales agregados por distrito",
+    "rezago": "Aproximacion con 2 o mas años de desfase"
+}
